@@ -1,4 +1,4 @@
-# Dookbeggy-2-
+# League HTML personal website
 
 A simple educational HTML website about League of Legends (LoL) and gaming terminology.
 
